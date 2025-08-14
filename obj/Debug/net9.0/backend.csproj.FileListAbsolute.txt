@@ -30,3 +30,9 @@ D:\Dersler\Task\task1\backend\obj\Debug\net9.0\refint\backend.dll
 D:\Dersler\Task\task1\backend\obj\Debug\net9.0\backend.pdb
 D:\Dersler\Task\task1\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
 D:\Dersler\Task\task1\backend\obj\Debug\net9.0\ref\backend.dll
+D:\Dersler\Task\task1\backend\obj\Debug\net9.0\backend.sourcelink.json
+D:\Dersler\Task\task1\backend\bin\Debug\net9.0\net9.0\appsettings.Development.json
+D:\Dersler\Task\task1\backend\bin\Debug\net9.0\net9.0\appsettings.json
+D:\Dersler\Task\task1\backend\bin\Debug\net9.0\net9.0\backend.deps.json
+D:\Dersler\Task\task1\backend\bin\Debug\net9.0\net9.0\backend.runtimeconfig.json
+D:\Dersler\Task\task1\backend\bin\Debug\net9.0\net9.0\backend.staticwebassets.endpoints.json
