@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "byGmjBNhc4w=",
+  "dgSpecHash": "x/UmBTkmkVw=",
   "success": true,
-  "projectFilePath": "D:\\Dersler\\Task\\task1\\backend\\backend.csproj",
+  "projectFilePath": "D:\\Dersler\\Task\\task1\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\frost\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
     "C:\\Users\\frost\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"

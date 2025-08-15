@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dersler\\Task\\task1\\backend\\backend.csproj": {}
+    "D:\\Dersler\\Task\\task1\\backend.csproj": {}
   },
   "projects": {
-    "D:\\Dersler\\Task\\task1\\backend\\backend.csproj": {
+    "D:\\Dersler\\Task\\task1\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dersler\\Task\\task1\\backend\\backend.csproj",
+        "projectUniqueName": "D:\\Dersler\\Task\\task1\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "D:\\Dersler\\Task\\task1\\backend\\backend.csproj",
+        "projectPath": "D:\\Dersler\\Task\\task1\\backend.csproj",
         "packagesPath": "C:\\Users\\frost\\.nuget\\packages\\",
-        "outputPath": "D:\\Dersler\\Task\\task1\\backend\\obj\\",
+        "outputPath": "D:\\Dersler\\Task\\task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frost\\AppData\\Roaming\\NuGet\\NuGet.Config"
